@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+      <Assembly>RevitAddon\RevitAddonPanelEditor.dll</Assembly>
+      <ClientId>A9872D66-2199-493C-A00D-C97B39CBC00A</ClientId>
+      <FullClassName>RevitAddonPanelEditor.EntryPoint</FullClassName>
+      <Name>RevitAddon</Name>
+      <VendorId>Kovalenko</VendorId>
+      <VendorDescription>Kovalenko</VendorDescription>	  
+   </AddIn>
+   
+</RevitAddIns>

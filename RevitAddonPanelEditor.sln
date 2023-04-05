@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAddonPanelEditor", "RevitAddonPanelEditor\RevitAddonPanelEditor.csproj", "{767B519F-B1D4-49C0-90B4-4CAE5E407E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767B519F-B1D4-49C0-90B4-4CAE5E407E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767B519F-B1D4-49C0-90B4-4CAE5E407E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767B519F-B1D4-49C0-90B4-4CAE5E407E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767B519F-B1D4-49C0-90B4-4CAE5E407E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56450BD8-C79F-4AFA-962F-3DC4939C5A30}
+	EndGlobalSection
+EndGlobal
